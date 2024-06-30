@@ -70,7 +70,8 @@ The Tegla Loroupe Peace Foundation main office is in Nairobi, in a new location 
 
 <hr>
 
-Contact Brian Wasike at +254 701 286055
+Contact Brian Wasike at +254 701 286055; +254 20 8005339
+
 <hr>
 
 For ten years, the office was on the second floor of the main office building at Shalom House, close to Ngong Road, near Junction. In late 2020, the office moved to its current location. 
@@ -78,3 +79,8 @@ For ten years, the office was on the second floor of the main office building at
 The [Tegla Loroupe Olympic Refugee Training Camp](http://bit.ly/37Y0sc3) is located in the town of Ngong, fifteen kilometers to the west of Nairobi. Click to see the location, and for driving instructions.
 <hr>
 In the United States, the Tegla Loroupe Peace Foundation is represented by the Tegla Loroupe Peace Organization, organized under United States law as a charitable 501(c)(3) non-profit organization. You may reach their Chief Representative, John Gage, at john.gage@teglapeace.org.
+
+---
+Video:
+
+{{< video src="https://www.facebook.com/100064382365481/videos/pcb.854474226708648/423186307387426" controls="yes" >}}
